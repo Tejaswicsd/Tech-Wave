@@ -1,9 +1,8 @@
-# eduWave 
+# TechWave 
 ## Introduction
-Introducing eduWave: an innovative solution at the intersection of technology and mindfulness, designed to revolutionize education. By empowering teachers with interactive course design tools and providing students with customizable study environments, eduWave enhances focus and engagement in learning. Through features like distraction-blocking applications and gamified learning platforms, we aim to cultivate a conducive learning environment. Join us in shaping the future of education with eduWave.
+Introducing TechWave: an innovative solution at the intersection of technology and mindfulness, designed to revolutionize education. By empowering teachers with interactive course design tools and providing students with customizable study environments, eduWave enhances focus and engagement in learning. Through features like distraction-blocking applications and gamified learning platforms, we aim to cultivate a conducive learning environment. Join us in shaping the future of education with TechWave.
 ```
-access our app at https://edu-wave.vercel.app
-watch a demo of the app: https://www.youtube.com/watch?v=jmVAoCwxQFg
+
 ```
 ## Features
 ## Teacher Side Features:
@@ -62,7 +61,7 @@ watch a demo of the app: https://www.youtube.com/watch?v=jmVAoCwxQFg
 ## Installation
 Clone my repository
 ```
-  git clone https://github.com/suraj719/eduWave.git
+  https://github.com/Tejaswicsd/Tech-Wave/
 ```
 add a .env file with the below config in the root directory
 ```
